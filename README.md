@@ -6,6 +6,6 @@ This application allows the user to find the largest file in any given directory
 
 ## Known Issues
 
-- This application does not currently display results within the GUI, it currently only displays the results on the command line (work in progress).
+- This application does not currently display results within the GUI, it only displays the results on the command line (work in progress).
 
 - File Size is not displayed accurately 
