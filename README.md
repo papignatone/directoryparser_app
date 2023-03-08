@@ -8,4 +8,4 @@ This application allows the user to find the largest file in any given directory
 
 - This application does not currently display results within the GUI, it only displays the results on the command line (work in progress).
 
-- File Size is not displayed accurately 
+- Time of last modification does not get displayed for every file path (work in progress). 
